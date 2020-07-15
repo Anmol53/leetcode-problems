@@ -3,11 +3,11 @@
 # Leetcode Problems Solutions
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Anmol53/Leetcode-Problems) 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Anmol53/Leetcode-Problems?color=%23ff9900)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Anmol53/Leetcode-Problems?color=ff9900)
 ![License Badge](https://img.shields.io/github/license/Anmol53/Leetcode-Problems)
 ![Forks Badge](https://img.shields.io/github/forks/Anmol53/Leetcode-Problems)
 ![Stars Badge](https://img.shields.io/github/stars/Anmol53/Leetcode-Problems)
-![Languages](https://img.shields.io/badge/languages-c%2Cjava%2Cjavascript-yellow.svg)
+![Languages](https://img.shields.io/badge/languages-java%2Cjavascript-yellow.svg)
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Anmol53/Leetcode-Problems)
 [![GitHub followers](https://img.shields.io/github/followers/Anmol53.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Anmol53?tab=followers)
 
