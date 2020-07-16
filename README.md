@@ -36,6 +36,7 @@ If found helpful please press a ⭐.
 #### Algorithms
 |  #ID  | Problem Statement | Solution java | Solution js | Difficulty |
 | :---: | :---------------: | :-----------: | :---------: | :--------: |
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution.java](https://github.com/Anmol53/Leetcode-Problems/blob/master/Solutions%20in%20Java/Pow(x%2C%20n).java)|[Solution.js](https://github.com/Anmol53/Leetcode-Problems/blob/master/Solutions%20in%20Javascript/Pow(x%2C%20n).js)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution.java](https://github.com/Anmol53/Leetcode-Problems/blob/master/Solutions%20in%20Java/Reverse%20Words%20in%20a%20String.java)|[Solution.js](https://github.com/Anmol53/Leetcode-Problems/blob/master/Solutions%20in%20Javascript/Reverse%20Words%20in%20a%20String.js)|Medium|
 |1344|[Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)|[Solution.java](https://github.com/Anmol53/Leetcode-Problems/blob/master/Solutions%20in%20Java/Angle%20Between%20Hands%20of%20a%20Clock.java)|[Solution.js](https://github.com/Anmol53/Leetcode-Problems/blob/master/Solutions%20in%20Javascript/Angle%20Between%20Hands%20of%20a%20Clock.js)|Medium|
 <!--
