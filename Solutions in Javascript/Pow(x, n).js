@@ -1,4 +1,7 @@
 /**
+* @author : Anmol Agrawal
+*/
+/**
  * @param {number} x
  * @param {number} n
  * @return {number}
