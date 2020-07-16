@@ -1,4 +1,7 @@
 /**
+* @author : Anmol Agrawal
+*/
+/**
  * @param {number} hour
  * @param {number} minutes
  * @return {number}
