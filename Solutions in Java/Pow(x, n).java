@@ -1,3 +1,6 @@
+/**
+* @author : Anmol Agrawal
+*/
 class Solution {
     public double myPow(double x, long n) {
         System.out.println(n);
