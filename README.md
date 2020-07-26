@@ -9,7 +9,7 @@
 ![Stars Badge](https://img.shields.io/github/stars/Anmol53/Leetcode-Problems)
 ![Languages](https://img.shields.io/badge/languages-java%2Cjavascript-yellow.svg)
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Anmol53/Leetcode-Problems)
-[![GitHub followers](https://img.shields.io/github/followers/Anmol53.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Anmol53?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Anmol53?label=Follow&style=social)](https://github.com/Anmol53?tab=followers)
 
 ## Why this repository?
 
