@@ -17,17 +17,22 @@ This is mostly for my personal learning and future references, and if anyone nee
 
 ***"Try the problem yourself first, then only proceed to the solution. BE FAITHFUL TO YOUR WORK."***
 
+<p align="center">
+  <img src="https://github.com/Anmol53/portfolio/blob/master/images/EvilNextDevilfish-small.gif" height="300px">
+</p>
+
+
 If found helpful please press a ⭐.
 
 ## Other Similar Repositories
 
 <table>
   <tr align="center">
-    <td><img src="https://hrcdn.net/hackerrank/assets/styleguide/logo_wordmark-13074b67abceb42ce8fd38bdeaac6926.svg" height="50"></td>
+    <td><a href="https://www.hackerrank.com/anmol_53"><img src="https://hrcdn.net/hackerrank/assets/styleguide/logo_wordmark-13074b67abceb42ce8fd38bdeaac6926.svg" height="50"></a></td>
     <td><a href="https://github.com/Anmol53/Hackerrank-Problem-Solving">Hackerrank Problems</a></td>
   </tr>
   <tr align="center">
-    <td><img src="https://assets.interviewbit.com/assets/ib_logo_svg-c7ed205b9475b598a9f652d7045054fa26b491fa95cf098569fa41ee0ac34259.svg.gz" height="50px"></td>
+    <td><a href=""><img src="https://assets.interviewbit.com/assets/ib_logo_svg-c7ed205b9475b598a9f652d7045054fa26b491fa95cf098569fa41ee0ac34259.svg.gz" height="50px"></a></td>
     <td><a href="https://github.com/Anmol53/Interviewbit-Practice">InterviewBit Problems</a></td>
   </tr>
 </table>
