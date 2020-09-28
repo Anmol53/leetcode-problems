@@ -1,3 +1,8 @@
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 <p align="center"><a href="https://leetcode.com/anmol_53/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png" height="100px"></a></p>
 
 # Leetcode Problems Solutions
