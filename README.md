@@ -1,8 +1,3 @@
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
 <p align="center"><a href="https://leetcode.com/anmol_53/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png" height="100px"></a></p>
 
 # Leetcode Problems Solutions
@@ -129,7 +124,6 @@ If found helpful please press a ⭐.
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii)|[Solution.java](https://github.com/Anmol53/Leetcode-Problems/blob/master/Solutions%20in%20Java/SingleNumber-III.java)|[Solution.js](https://github.com/Anmol53/Leetcode-Problems/blob/master/Solutions%20in%20Javascript/SingleNumber-III.js)|Medium|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)|[Solution.java](https://github.com/Anmol53/Leetcode-Problems/blob/master/Solutions%20in%20Java/UglyNumber-II.java)|[Solution.js](https://github.com/Anmol53/Leetcode-Problems/blob/master/Solutions%20in%20Javascript/UglyNumber-II.js)|Medium|
 |1344|[Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)|[Solution.java](https://github.com/Anmol53/Leetcode-Problems/blob/master/Solutions%20in%20Java/Angle%20Between%20Hands%20of%20a%20Clock.java)|[Solution.js](https://github.com/Anmol53/Leetcode-Problems/blob/master/Solutions%20in%20Javascript/Angle%20Between%20Hands%20of%20a%20Clock.js)|Medium|
-{: .tablelines}
 <!--
 
 -->
