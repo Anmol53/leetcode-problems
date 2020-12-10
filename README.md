@@ -18,7 +18,7 @@ This is mostly for my personal learning and future references, and if anyone nee
 ***"Try the problem yourself first, then only proceed to the solution. BE FAITHFUL TO YOUR WORK."***
 
 <p align="center">
-  <img src="https://github.com/Anmol53/portfolio/blob/master/images/EvilNextDevilfish-small.gif" height="300px">
+  <img src="https://anmolagrawal.tech/images/EvilNextDevilfish-small.gif" height="300px">
 </p>
 
 
