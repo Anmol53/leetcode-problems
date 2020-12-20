@@ -58,6 +58,7 @@ If found helpful please press a ⭐.
 ## INDEX
 #### Algorithms
 
+
 |#ID|ProblemStatement|Solutionjava|Solutionjs|Difficulty|
 |:---:|:---------------:|:-----------:|:---------:|:--------:|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Solution.java](https://github.com/Anmol53/Leetcode-Problems/blob/master/Solutions%20in%20Java/TwoSum.java)|[Solution.js](https://github.com/Anmol53/Leetcode-Problems/blob/master/Solutions%20in%20Javascript/TwoSum.js)|Easy|
