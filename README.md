@@ -18,7 +18,7 @@ This is mostly for my personal learning and future references, and if anyone nee
 ***"Try the problem yourself first, then only proceed to the solution. BE FAITHFUL TO YOUR WORK."***
 
 <p align="center">
-  <img src="https://anmolagrawal.tech/images/EvilNextDevilfish-small.gif" height="300px">
+  <img src="https://anmolagrawal.dev/images/EvilNextDevilfish-small.gif" height="300px">
 </p>
 
 
@@ -32,7 +32,7 @@ If found helpful please press a ⭐.
       <a href="https://www.hackerrank.com/anmol_53"><img src="https://hrcdn.net/hackerrank/assets/styleguide/logo_wordmark-13074b67abceb42ce8fd38bdeaac6926.svg" height="100"></a>
       <br>
       Repo : 
-      <a href="https://anmolagrawal.tech/Hackerrank-Problem-Solving/">Hackerrank Problems</a>
+      <a href="https://anmolagrawal.dev/hackerrank-problem-solving/">Hackerrank Problems</a>
       <br>
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -48,7 +48,7 @@ If found helpful please press a ⭐.
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>
       Repo : 
-      <a href="https://anmolagrawal.tech/Interviewbit-Practice/">InterviewBit Problems</a>
+      <a href="https://anmolagrawal.dev/interviewbit-practice/">InterviewBit Problems</a>
       <br>
       <br>
     </td>
